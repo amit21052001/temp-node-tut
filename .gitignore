@@ -1,0 +1,10 @@
+/node_modules
+
+
+
+
+#it simply contains all the files which never want to puch on git 
+
+# git remote add origin https://github.com/amit21052001/temp-node-tut.git
+# git branch -M main
+# git push -u origin main

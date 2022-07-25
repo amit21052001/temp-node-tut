@@ -1,0 +1,14 @@
+{
+  "name": "node-tut",
+  "version": "1.0.0",
+  "description": "this is my first node tutorial and it is going very smoothly",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit Solanki",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
